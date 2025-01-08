@@ -1,0 +1,13 @@
+{
+    "static": true,
+    "num_node_features": 3,
+    "num_edge_features": 1,
+    "num_Y_features": 1,
+    "only_first_degree": true,
+    "normalize": "min-max",
+    "threshold": 0.0,
+    "weighted_edge": "Counter",
+    "task": 0,
+    "build_edges": "text",
+    "forRNN": true
+}
